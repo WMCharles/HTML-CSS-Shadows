@@ -2,3 +2,8 @@ body {
     background-color: #508AA8;
     font-family: sans-serif;
 }
+
+h2 {
+    text-align: center;
+    color: orange;
+}
