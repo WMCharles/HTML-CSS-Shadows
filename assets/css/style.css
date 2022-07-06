@@ -22,3 +22,9 @@ h2 {
     border-bottom: 5px solid orange;
 
 }
+#top3 div:hover, #reborn div:hover {
+    color: #FAA916;
+    box-shadow: 0px 5px 5px black;
+    border-bottom: 0px;
+    transition: 0.3s;
+}
