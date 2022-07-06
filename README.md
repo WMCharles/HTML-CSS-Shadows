@@ -13,12 +13,13 @@
 
 This is a demo website that lists various classic movies franchise. The main purpose of this website is to demonstrate the use of CSS Shadow effects and CSS descendant selectors 
 
-# Table of Content
+## Landing Page
 
-+ [Description](#description)
-+ [Technologies Used](technologies-used)
-+ [Installation](#installation)
-+ [Author](#author)
+![image](https://github.com/WMCharles/HTML-CSS-Shadows/blob/main/index-html.png)
+
+## Live Link 
+
+- [link](https://wmcharles.github.io/HTML-CSS-Shadows/)
 
 ## Technologies Used
 
