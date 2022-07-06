@@ -13,3 +13,12 @@ h2 {
     flex-direction: row;
     justify-content: space-around;
 }
+
+#top3 div, #reborn div {
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid orange;
+
+}
