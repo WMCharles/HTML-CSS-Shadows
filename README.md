@@ -35,4 +35,5 @@ git clone https://github.com/WMCharles/HTML-CSS-Shadows.git
 
 ## Author
 
-Charles Wafula
+* Twitter - [Charles Wafula](https://twitter.com/WMKCharles)
+* Github - [Charles Wafula](https://github.com/WMCharles)
