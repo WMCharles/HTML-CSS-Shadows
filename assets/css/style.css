@@ -7,3 +7,9 @@ h2 {
     text-align: center;
     color: orange;
 }
+
+#top3, #reborn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
