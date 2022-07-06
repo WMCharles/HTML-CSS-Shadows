@@ -1,5 +1,14 @@
 # HTML-CSS-Shadows
 
+## Table of Content
+
++ [Description](#description)
++ [Landing Page](#landing-page)
++ [Live Link](#live-link)
++ [Technologies Used](#technologies-used)
++ [Installation](#installation)
++ [Author](#author)
+
 ## Description
 
 This is a demo website that lists various classic movies franchise. The main purpose of this website is to demonstrate the use of CSS Shadow effects and CSS descendant selectors 
